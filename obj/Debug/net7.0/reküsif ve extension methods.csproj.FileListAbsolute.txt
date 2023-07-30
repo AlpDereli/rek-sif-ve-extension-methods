@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\patika\reküsif ve extension methods\bin\Debug\net7.0\reküsif ve extension methods.exe
+C:\Users\HP\Desktop\patika\reküsif ve extension methods\bin\Debug\net7.0\reküsif ve extension methods.deps.json
+C:\Users\HP\Desktop\patika\reküsif ve extension methods\bin\Debug\net7.0\reküsif ve extension methods.runtimeconfig.json
+C:\Users\HP\Desktop\patika\reküsif ve extension methods\bin\Debug\net7.0\reküsif ve extension methods.dll
+C:\Users\HP\Desktop\patika\reküsif ve extension methods\bin\Debug\net7.0\reküsif ve extension methods.pdb
+C:\Users\HP\Desktop\patika\reküsif ve extension methods\obj\Debug\net7.0\reküsif ve extension methods.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\patika\reküsif ve extension methods\obj\Debug\net7.0\reküsif ve extension methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\patika\reküsif ve extension methods\obj\Debug\net7.0\reküsif ve extension methods.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\patika\reküsif ve extension methods\obj\Debug\net7.0\reküsif ve extension methods.AssemblyInfo.cs
+C:\Users\HP\Desktop\patika\reküsif ve extension methods\obj\Debug\net7.0\reküsif ve extension methods.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\patika\reküsif ve extension methods\obj\Debug\net7.0\reküsif ve extension methods.dll
+C:\Users\HP\Desktop\patika\reküsif ve extension methods\obj\Debug\net7.0\refint\reküsif ve extension methods.dll
+C:\Users\HP\Desktop\patika\reküsif ve extension methods\obj\Debug\net7.0\reküsif ve extension methods.pdb
+C:\Users\HP\Desktop\patika\reküsif ve extension methods\obj\Debug\net7.0\reküsif ve extension methods.genruntimeconfig.cache
+C:\Users\HP\Desktop\patika\reküsif ve extension methods\obj\Debug\net7.0\ref\reküsif ve extension methods.dll
